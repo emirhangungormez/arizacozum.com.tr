@@ -1,0 +1,1 @@
+main section h2{font-size:18px;color:#000;padding-bottom:20px;margin-bottom:30px;border-bottom:2px solid #e4e5e6;position:relative}main section h2:after{content:"";width:130px;height:2px;background:#cf102d;position:absolute;left:0;bottom:-2px}

@@ -1,0 +1,1 @@
+.box-tab{width:fit-content;padding:4px;background:#e4e5e6;border-radius:6px;gap:4px}.box-tab a{font-size:14px;line-height:16px;color:#000;padding:17px 30px;border-radius:2px;display:flex;user-select:none}@media(max-width: 991px){.box-tab a{padding:10px 8px}}.box-tab a.nav-path-selected{background:#fff;pointer-events:none}
